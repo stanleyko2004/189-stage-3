@@ -1,3 +1,6 @@
 CIFAR
 MNIST
 ORL
+
+.DS_Store
+venv/
